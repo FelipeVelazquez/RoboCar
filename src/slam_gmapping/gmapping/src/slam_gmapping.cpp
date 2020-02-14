@@ -189,7 +189,7 @@ void SlamGMapping::init()
     throttle_scans_ = 1;
   if(!private_nh_.getParam("base_frame", base_frame_))
     //base_frame_ = "base_link";
-    base_frame_ = "camera_link";
+    base_frame_ = "zed_camera_center";
   if(!private_nh_.getParam("map_frame", map_frame_))
     map_frame_ = "map";
   if(!private_nh_.getParam("odom_frame", odom_frame_))
