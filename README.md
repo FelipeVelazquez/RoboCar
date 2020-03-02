@@ -1,4 +1,4 @@
-## RoboCar <br />r
+## RoboCar <br />
 ## Comandos para secuencia de ejecución 
 
 <br />roslaunch openni_launch openni.launch
