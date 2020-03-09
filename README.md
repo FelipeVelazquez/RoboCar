@@ -1,11 +1,12 @@
 <h1> RoboCar</h1> 
 <h2 > Comandos para secuencia de ejecución </h2>
-<h3> Instalacion de recursos previos </h3>
+<h3> Instalación de recursos previos </h3>
 <ul>
   <li>sudo apt-get install ros-melodic-octomap</li>
   <li>git clone https://github.com/FelipeVelazquez/RoboCar.git</li>
 </ul>
-<h3> Comandos para ejecucion </h3>
+<br> Añadir el espacio de trabajo de RoboCar al archivo .bashrc </br>
+<h3> Comandos para ejecución </h3>
 <ol>
   <li>roslaunch openni_launch openni.launch</li>
   <li>roslaunch pointcloud_to_laserscan start.launch</li>
