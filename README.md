@@ -8,8 +8,8 @@
 <br> Añadir el espacio de trabajo de RoboCar al archivo .bashrc </br>
 <h3>Hardware utilizado</h3>
 <ul>
-	<li>Kinect Xbox 360 V1.0 <img src="images/Kinect.jpg"> </li>
-	<li>Control Xbox 360 <img src="images/control.jpg"></li>
+	<li>Kinect Xbox 360 V1.0 <img src="images/Kinect.jpg" width="400"> </li>
+	<li>Control Xbox 360 <img src="images/control.jpg" width="400"></li>
 </ul>>
 <h3> Comandos para ejecución </h3>
 <ol>
