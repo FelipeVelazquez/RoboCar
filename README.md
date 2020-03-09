@@ -8,10 +8,15 @@
 <br> Añadir el espacio de trabajo de RoboCar al archivo .bashrc </br>
 <h3>Hardware utilizado</h3>
 <ul>
-	<li>Kinect Xbox 360 V1.0 </li>
-	<img src="images/Kinect.jpg" width="400"> 
-	<li>Control Xbox 360 </li>
 	<img src="images/control.jpg" width="400">
+	<li>RPLIDAR V2</li>
+	<img src="images/rplidar.jpg" width="400"> 
+	<li>Camara estereo ZED 2</li>
+	<img src="images/zed2.jpg" width="400">
+	<li>Mbed LPC1768 + Aplication board</li>
+	<img src="images/mbed.jpg" width="400">
+	<li>Nvidia Jetson nano</li>
+	<img src="images/jeson.jpg" width="400">
 </ul>>
 <h3> Comandos para ejecución </h3>
 <ol>
