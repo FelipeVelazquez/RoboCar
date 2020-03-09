@@ -1,12 +1,14 @@
-## RoboCar <br />
-## Comandos para secuencia de ejecución 
-
-<br />roslaunch openni_launch openni.launch
-
-<br />roslaunch pointcloud_to_laserscan start.launch
-
-<br />rosrun odometria Odometria_Xbox.py
-
-<br />rosrun gmapping slam_gmapping scan:=camera/scan
-
-<br />roslaunch octomap_server octomap_mapping.launch 
+<h1> RoboCar<h1 /> <br />
+<h2 > Comandos para secuencia de ejecución <h2 />
+<h3> Instalacion de recursos previos <h3 />
+<ul>
+  <li>sudo apt-get install ros-melodic-octomap<li />
+<ul />
+<h3> Comandos para ejecucion <h3 />
+<ol>
+  <li>roslaunch openni_launch openni.launch<li />
+  <li>roslaunch pointcloud_to_laserscan start.launch<li />
+  <li >rosrun odometria Odometria_Xbox.py<li />
+  <li >rosrun gmapping slam_gmapping scan:=camera/scan<li />
+  <li >roslaunch octomap_server octomap_mapping.launch <li />
+<ol />
