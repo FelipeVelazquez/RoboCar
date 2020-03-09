@@ -3,6 +3,7 @@
 <h3> Instalacion de recursos previos </h3>
 <ul>
   <li>sudo apt-get install ros-melodic-octomap</li>
+  <li>git clone https://github.com/FelipeVelazquez/RoboCar.git</li>
 </ul>
 <h3> Comandos para ejecucion </h3>
 <ol>
