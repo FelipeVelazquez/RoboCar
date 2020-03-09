@@ -16,12 +16,12 @@
 	<img src="images/mbed.jpg" width="400">
 	<li>Nvidia Jetson nano</li>
 	<img src="images/jetson.jpg" width="400">
-</ul>>
+</ul>
 <h3> Comandos para ejecución </h3>
 <ol>
-  <li>roslaunch openni_launch openni.launch</li>
-  <li>roslaunch pointcloud_to_laserscan start.launch</li>
-  <li >rosrun odometria Odometria_Xbox.py</li>
-  <li >rosrun gmapping slam_gmapping scan:=camera/scan</li>
+  <li>roslaunch rplidar rplidar.lauch</li>
+  <li>rroslaunch zed_wrapper zed2.launch</li>
+  <li >rosrun odometria control.py</li>
+  <li >rosrun gmapping slam_gmapping</li>
   <li >roslaunch octomap_server octomap_mapping.launch</li>
 </ol>
