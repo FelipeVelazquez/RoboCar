@@ -6,6 +6,11 @@
   <li>git clone https://github.com/FelipeVelazquez/RoboCar.git</li>
 </ul>
 <br> Añadir el espacio de trabajo de RoboCar al archivo .bashrc </br>
+<h3>Hardware utilizado</h3>
+<ul>
+	<li>Kinect Xbox 360 V1.0 <img src="images/Kinect.jpg"> </li>
+	<li>Control Xbox 360 <img src="images/control.jpg"></li>
+</ul>>
 <h3> Comandos para ejecución </h3>
 <ol>
   <li>roslaunch openni_launch openni.launch</li>
