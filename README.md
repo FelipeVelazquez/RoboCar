@@ -9,7 +9,6 @@
 <h3>Hardware utilizado</h3>
 <ul>
 	<img src="images/control.jpg" width="400">
-<<<<<<< HEAD
 	<li>RPLIDAR V2</li>
 	<img src="images/rplidar.jpg" width="400"> 
 	<li>Camara estereo ZED 2</li>
@@ -19,9 +18,6 @@
 	<li>Nvidia Jetson nano</li>
 	<img src="images/jeson.jpg" width="400">
 </ul>>
-=======
-</ul>
->>>>>>> master
 <h3> Comandos para ejecución </h3>
 <ol>
   <li>roslaunch openni_launch openni.launch</li>
