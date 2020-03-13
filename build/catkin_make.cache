@@ -1,0 +1,2 @@
+geometry2/geometry2:geometry2/test_tf2:geometry2/tf2:geometry2/tf2_bullet:geometry2/tf2_eigen:geometry2/tf2_geometry_msgs:geometry2/tf2_kdl:geometry2/tf2_msgs:geometry2/tf2_py:geometry2/tf2_ros:geometry2/tf2_sensor_msgs:geometry2/tf2_tools:odometria:openslam_gmapping:pointcloud_to_laserscan:rplidar_ros:slam_gmapping/gmapping:slam_gmapping/slam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/ironlion/RoboCar/devel -DCMAKE_INSTALL_PREFIX=/home/ironlion/RoboCar/install -G Unix Makefiles
