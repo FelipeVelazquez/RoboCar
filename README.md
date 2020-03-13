@@ -19,9 +19,11 @@
 </ul>
 <h3> Comandos para ejecución </h3>
 <ol>
-  <li>roslaunch rplidar rplidar.lauch</li>
-  <li>rroslaunch zed_wrapper zed2.launch</li>
+  <li >roslaunch rplidar rplidar.lauch</li>
+  <li >rroslaunch zed_wrapper zed2.launch</li>
   <li >rosrun odometria control.py</li>
   <li >rosrun gmapping slam_gmapping</li>
   <li >roslaunch octomap_server octomap_mapping.launch</li>
+  <li >rosrun ia Data_recolect.py</li>
+  <li >rosrun ia scan_test.py</li>
 </ol>
