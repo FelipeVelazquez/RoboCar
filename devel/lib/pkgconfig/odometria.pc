@@ -1,0 +1,8 @@
+prefix=/home/ironlion/RoboCar/devel
+
+Name: odometria
+Description: Description of odometria
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
