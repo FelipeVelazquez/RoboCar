@@ -1,10 +1,16 @@
 <h1> RoboCar</h1> 
 <h2 > Comandos para secuencia de ejecución </h2>
 <h3> Instalación de recursos previos </h3>
-<ul>
-  <li>sudo apt-get install ros-melodic-octomap</li>
-  <li>git clone https://github.com/FelipeVelazquez/RoboCar.git</li>
-</ul>
+
+```bash
+sudo apt-get install ros-melodic-octomap
+sudo apt install tensorflow
+sudo apt install opencv-python==4.1.1.26
+sudo apt install lxml
+sudo apt install tqdm
+git clone https://github.com/FelipeVelazquez/RoboCar.git
+```
+
 <br> Añadir el espacio de trabajo de RoboCar al archivo .bashrc </br>
 <h3>Hardware utilizado</h3>
 <ul>
@@ -18,12 +24,13 @@
 	<img src="images/jetson.jpg" width="400">
 </ul>
 <h3> Comandos para ejecución </h3>
-<ol>
-  <li >roslaunch rplidar rplidar.lauch</li>
-  <li >roslaunch zed_wrapper zed2.launch</li>
-  <li >rosrun odometria control.py</li>
-  <li >rosrun gmapping slam_gmapping</li>
-  <li >roslaunch octomap_server octomap_mapping.launch</li>
-  <li >rosrun ia Data_recolect.py</li>
-  <li >rosrun ia scan_test.py</li>
-</ol>
+
+```bash
+roslaunch rplidar rplidar.lauch
+roslaunch zed_wrapper zed2.launch
+rosrun odometria control.py
+rosrun gmapping slam_gmapping
+roslaunch octomap_server octomap_mapping.launch
+rosrun ia Data_recolect.py
+rosrun ia scan_test.py
+```
