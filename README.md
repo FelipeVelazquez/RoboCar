@@ -46,4 +46,4 @@ rosrun ia scan_test.py
 ```
 
 <h3> Yolo V3 use TF2</h3>
-<h4> All the credit to <a href="https://github.com/zzh8829">Zihao Zhang</a> </h4>
+<h4> All the credit of yolo implement use TF2.0 to<a href="https://github.com/zzh8829">Zihao Zhang</a> </h4>
