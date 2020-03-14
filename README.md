@@ -4,10 +4,10 @@
 
 ```bash
 sudo apt-get install ros-melodic-octomap
-sudo apt install tensorflow
-sudo apt install opencv-python==4.1.1.26
-sudo apt install lxml
-sudo apt install tqdm
+sudo pip install  tensorflow
+sudo pip install opencv-python==4.1.1.26
+sudo pip install lxml
+sudo pip install tqdm
 git clone https://github.com/FelipeVelazquez/RoboCar.git
 ```
 
